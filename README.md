@@ -44,7 +44,7 @@ Here is a boilerplate example you can copy & paste.
 4. [ved](https://github.com/DARJYO-developer) - MERN Stack Developer @darjyo
 
    - Always grateful to learn new things.
-   - Follow on [Twitter - DARJYO](https://twitter.com/DARJYO1)
+   - Follow on [Twitter](https://twitter.com/DARJYO1)
 
 
 
