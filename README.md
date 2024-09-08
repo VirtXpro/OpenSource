@@ -43,8 +43,8 @@ Here is a boilerplate example you can copy & paste.
 
 4. [ved](https://github.com/DARJYO-developer) - MERN Stack Developer @darjyo
 
-   - Always in excited to learn new things.
-   - Follow me on [Twitter - DARJYO](https://twitter.com/DARJYO1)
+   - Always grateful to learn new things.
+   - Follow on [Twitter - DARJYO](https://twitter.com/DARJYO1)
 
 
 
