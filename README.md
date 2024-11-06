@@ -4,7 +4,7 @@
 
 If you have never contributed to an open-source project before, feel free to contribute here. 🙂
 
-**_Connect with us on_** [Instagram](https://www.instagram.com/drjyo) for feedback or suggestions, or open an issue in the repo. 😍
+**_Connect with us on_** [Instagram](https://www.instagram.com/darjyo) for feedback or suggestions, or open an issue in the repo. 😍
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
